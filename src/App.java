@@ -4,3 +4,4 @@ public class App {
     System.out.println("Inventaire : 0 article");
   }
 }
+// Recherche par code produit
